@@ -1,5 +1,5 @@
 module.exports = {
-  title: '招聘系统',
+  title: '管理系统',
   /**
    * @type {boolean} true | false
    * @description Whether fix the header
