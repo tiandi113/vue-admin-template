@@ -2,7 +2,7 @@
 
 本框架只适用于后台管理系统，手机端请移步。
 
-本项目从 vue-element-admin分支permission-control （https://github.com/PanJiaChen/vue-admin-template/tree/permission-control） 进行修改，增加后台控制前端路由，增加tagviews标签页，
+本项目从 vue-element-admin分支permission-control（https://github.com/PanJiaChen/vue-admin-template/tree/permission-control）进行修改，增加后台控制前端路由，增加tagviews标签页，
 
 
 需了解 vue + vuex + vue-router + axios+ 基于element-ui前端组件,一个基于vue并感觉不错的表单生成工具  form-creater （可基于element-ui,iview的一系列组件）http://www.form-create.com/v2/
