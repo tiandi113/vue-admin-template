@@ -1,4 +1,4 @@
-# crd-admin-template
+# vue-admin-template
 
 本框架只适用于后台管理系统，手机端请移步。
 
