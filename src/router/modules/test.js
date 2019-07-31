@@ -11,13 +11,14 @@ const testRouter = [
     },
     children: [
       {
-        path: 'SmplePage',
+        path: '/SmplePage',
         component: () => import('@/views/test/simplePage'),
         name: 'SimplePage',
+        redirect: '/SmplePage',
         meta: { title: 'SmplePage', icon: 'image' }
       },
       {
-        path: 'Test',
+        path: '/Test',
         component: () => import('@/views/test/test'),
         name: 'Test',
         meta: { title: 'excel', icon: 'excel' }
